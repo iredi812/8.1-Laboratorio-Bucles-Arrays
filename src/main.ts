@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 type Especialidad = "Medico de familia" | "Pediatra" | "Cardiólogo";
 
 interface Pacientes {
@@ -199,3 +200,6 @@ const cuentaPacientesPorEspecialidad = (
 };
 
 console.log(cuentaPacientesPorEspecialidad(pacientes));
+=======
+import "./shell.ts";
+>>>>>>> 99bfc7b (Subida Laboratorio 8.3 Aplicación de memoria)
